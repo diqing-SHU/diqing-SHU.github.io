@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://diqing-shu.github.io/"/>
-  <updated>2020-02-20T16:33:57.498Z</updated>
+  <updated>2020-02-20T16:51:25.390Z</updated>
   <id>https://diqing-shu.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>AOV（传说对决）对应王者荣耀英雄汇总，持续更新（目前更新至2020-02-20）</title>
     <link href="https://diqing-shu.github.io/2020/02/05/aov/"/>
     <id>https://diqing-shu.github.io/2020/02/05/aov/</id>
-    <published>2020-02-05T08:05:40.000Z</published>
-    <updated>2020-02-20T16:33:57.498Z</updated>
+    <published>2020-02-05T08:05:00.000Z</published>
+    <updated>2020-02-20T16:51:25.390Z</updated>
     
     <summary type="html">
     
@@ -41,7 +41,11 @@
       <category term="游戏" scheme="https://diqing-shu.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-      <category term="王者荣耀 AOV 传说对决" scheme="https://diqing-shu.github.io/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80-AOV-%E4%BC%A0%E8%AF%B4%E5%AF%B9%E5%86%B3/"/>
+      <category term="王者荣耀" scheme="https://diqing-shu.github.io/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    
+      <category term="AOV" scheme="https://diqing-shu.github.io/tags/AOV/"/>
+    
+      <category term="传说对决" scheme="https://diqing-shu.github.io/tags/%E4%BC%A0%E8%AF%B4%E5%AF%B9%E5%86%B3/"/>
     
   </entry>
   
